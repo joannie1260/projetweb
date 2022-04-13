@@ -23,11 +23,13 @@ Absence de conflit
 PréférenceDessert
 
 Biscuits/Laurence
-
 Oréo: Laurence
+Chocolat: Joannie
+
+Gateaux/Joannie
+Chocolat : Joannie
 
 Pouding/Stephanie
-
 Tapioca: Stephanie
 
 
