@@ -22,9 +22,7 @@ Absence de conflit
 
 PréférenceDessert
 
-Biscuits/Laurence
 
-Oréo: Laurence
 
 
 
