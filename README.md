@@ -20,3 +20,4 @@ Pertinence de la nomenclature des commits
 Absence de conflit
 
 
+PréférenceHobbie
