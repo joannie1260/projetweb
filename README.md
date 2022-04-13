@@ -20,17 +20,19 @@ Pertinence de la nomenclature des commits
 Absence de conflit
 
 
-PréférenceDessert
+# PréférenceDessert
 
 Biscuits/Laurence
-Oréo: Laurence
-Chocolat: Joannie
+- Oréo: Laurence
+- Chocolat: Joannie
+- chocolat blanc et macadame: Stephanie
 
 Gateaux/Joannie
-Chocolat : Joannie
+- Chocolat : Joannie
+-Vanille: Stephanie
 
 Pouding/Stephanie
-Tapioca: Stephanie
+- Tapioca: Stephanie
 
 
 
