@@ -20,4 +20,11 @@ Pertinence de la nomenclature des commits
 Absence de conflit
 
 
-PréférenceHobbie
+PréférenceDessert
+
+Biscuits/Laurence
+
+Oréo: Laurence
+
+
+
